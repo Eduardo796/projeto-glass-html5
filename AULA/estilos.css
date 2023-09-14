@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+}
+
+header,nav{
+    height: 30px;
+    width: 100%;
+    background-color: rgb(51, 226, 168);
+    text-align: center;
+    color: #fff;
+    margin-bottom: 5px;
+}
+article{
+    height: 80px;
+    width: 70%;
+    background-color: rgb(51, 226, 168);
+    text-align: center;
+    color: #fff;
+    margin-bottom: 5px;
+}
+aside{
+    height: 80px;
+    width: 30%;
+    background-color: rgb(51, 226, 168);
+    text-align: center;
+    color: #fff;
+    margin: 0 0 0 5px;
+   
+}
+section{
+    height: 55px;
+    width: 96%;
+    background-color: rgb(33, 105, 81);
+    text-align: center;
+    color: #fff;
+    margin: 0 0 0 8px;
+}
+footer{
+    height: 30px;
+    width: 100%;
+    background-color: rgb(51, 226, 168);
+    text-align: center;
+    color: #fff;
+    margin: 1px 0 1px 0;
+}
